@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 2e419556c6652374890019054e2d9c71
+timeCreated: 1567043955
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Magin8:Drone
+    100004: Magin8:Drone 1
+    100006: Magin8:Drone1
+    100008: Magin8:Drone_group
+    100010: Magin8:Helice1
+    100012: Magin8:Helice1_group
+    100014: Magin8:Helice2
+    100016: Magin8:Helice2_group
+    100018: Magin8:Helice3
+    100020: Magin8:Helice3_group
+    100022: Magin8:Helice4
+    100024: Magin8:Helice4_group
+    100026: Magin8:Helice_D
+    100028: Magin8:Helice_D1
+    100030: Magin8:Helice_D2
+    100032: Magin8:Helice_D2_1
+    100034: Magin8:Helice_D2_End
+    100036: Magin8:Helice_D_End
+    100038: Magin8:Helice_E
+    100040: Magin8:Helice_E2
+    100042: Magin8:Helice_E2 1
+    100044: Magin8:Helice_E2_1
+    100046: Magin8:Helice_E2_End
+    100048: Magin8:Helice_E_End
+    100050: Magin8:Magin5:Data_group
+    100052: Magin8:Magin5:Render_Mesh
+    100054: Magin8:Magin5:Scalable_group
+    400000: //RootNode
+    400002: Magin8:Drone
+    400004: Magin8:Drone 1
+    400006: Magin8:Drone1
+    400008: Magin8:Drone_group
+    400010: Magin8:Helice1
+    400012: Magin8:Helice1_group
+    400014: Magin8:Helice2
+    400016: Magin8:Helice2_group
+    400018: Magin8:Helice3
+    400020: Magin8:Helice3_group
+    400022: Magin8:Helice4
+    400024: Magin8:Helice4_group
+    400026: Magin8:Helice_D
+    400028: Magin8:Helice_D1
+    400030: Magin8:Helice_D2
+    400032: Magin8:Helice_D2_1
+    400034: Magin8:Helice_D2_End
+    400036: Magin8:Helice_D_End
+    400038: Magin8:Helice_E
+    400040: Magin8:Helice_E2
+    400042: Magin8:Helice_E2 1
+    400044: Magin8:Helice_E2_1
+    400046: Magin8:Helice_E2_End
+    400048: Magin8:Helice_E_End
+    400050: Magin8:Magin5:Data_group
+    400052: Magin8:Magin5:Render_Mesh
+    400054: Magin8:Magin5:Scalable_group
+    4300000: Magin8:Drone
+    7400000: Surgindo
+    7400002: Parado
+    7400004: "Transforma\xE7\xE3o"
+    7400006: Parado Transformado
+    9500000: //RootNode
+    13700000: Magin8:Drone
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Surgindo
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 418
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Magin8:Drone_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice1_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice1_group/Magin8:Helice1
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice2_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice2_group/Magin8:Helice2
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice3_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice3_group/Magin8:Helice3
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice4_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice4_group/Magin8:Helice4
+        weight: 1
+      - path: Magin8:Magin5:Data_group
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D/Magin8:Helice_D1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D/Magin8:Helice_D1/Magin8:Helice_D_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2/Magin8:Helice_D2_1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2/Magin8:Helice_D2_1/Magin8:Helice_D2_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E/Magin8:Helice_E2
+          1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E/Magin8:Helice_E2
+          1/Magin8:Helice_E_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2/Magin8:Helice_E2_1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2/Magin8:Helice_E2_1/Magin8:Helice_E2_End
+        weight: 1
+      - path: Magin8:Magin5:Render_Mesh
+        weight: 1
+      - path: Magin8:Magin5:Render_Mesh/Magin8:Drone
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parado
+      takeName: Take 001
+      firstFrame: 434
+      lastFrame: 848
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Magin8:Drone_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice1_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice1_group/Magin8:Helice1
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice2_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice2_group/Magin8:Helice2
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice3_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice3_group/Magin8:Helice3
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice4_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice4_group/Magin8:Helice4
+        weight: 1
+      - path: Magin8:Magin5:Data_group
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D/Magin8:Helice_D1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D/Magin8:Helice_D1/Magin8:Helice_D_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2/Magin8:Helice_D2_1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2/Magin8:Helice_D2_1/Magin8:Helice_D2_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E/Magin8:Helice_E2
+          1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E/Magin8:Helice_E2
+          1/Magin8:Helice_E_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2/Magin8:Helice_E2_1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2/Magin8:Helice_E2_1/Magin8:Helice_E2_End
+        weight: 1
+      - path: Magin8:Magin5:Render_Mesh
+        weight: 1
+      - path: Magin8:Magin5:Render_Mesh/Magin8:Drone
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Transforma\xE7\xE3o"
+      takeName: Take 001
+      firstFrame: 851
+      lastFrame: 903
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Magin8:Drone_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice1_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice1_group/Magin8:Helice1
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice2_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice2_group/Magin8:Helice2
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice3_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice3_group/Magin8:Helice3
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice4_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice4_group/Magin8:Helice4
+        weight: 1
+      - path: Magin8:Magin5:Data_group
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D/Magin8:Helice_D1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D/Magin8:Helice_D1/Magin8:Helice_D_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2/Magin8:Helice_D2_1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2/Magin8:Helice_D2_1/Magin8:Helice_D2_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E/Magin8:Helice_E2
+          1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E/Magin8:Helice_E2
+          1/Magin8:Helice_E_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2/Magin8:Helice_E2_1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2/Magin8:Helice_E2_1/Magin8:Helice_E2_End
+        weight: 1
+      - path: Magin8:Magin5:Render_Mesh
+        weight: 1
+      - path: Magin8:Magin5:Render_Mesh/Magin8:Drone
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Parado Transformado
+      takeName: Take 001
+      firstFrame: 903
+      lastFrame: 1300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Magin8:Drone_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice1_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice1_group/Magin8:Helice1
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice2_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice2_group/Magin8:Helice2
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice3_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice3_group/Magin8:Helice3
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice4_group
+        weight: 1
+      - path: Magin8:Drone_group/Magin8:Drone1/Magin8:Helice4_group/Magin8:Helice4
+        weight: 1
+      - path: Magin8:Magin5:Data_group
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D/Magin8:Helice_D1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D/Magin8:Helice_D1/Magin8:Helice_D_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2/Magin8:Helice_D2_1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_D2/Magin8:Helice_D2_1/Magin8:Helice_D2_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E/Magin8:Helice_E2
+          1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E/Magin8:Helice_E2
+          1/Magin8:Helice_E_End
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2/Magin8:Helice_E2_1
+        weight: 1
+      - path: Magin8:Magin5:Data_group/Magin8:Magin5:Scalable_group/Magin8:Drone 1/Magin8:Helice_E2/Magin8:Helice_E2_1/Magin8:Helice_E2_End
+        weight: 1
+      - path: Magin8:Magin5:Render_Mesh
+        weight: 1
+      - path: Magin8:Magin5:Render_Mesh/Magin8:Drone
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 903
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
